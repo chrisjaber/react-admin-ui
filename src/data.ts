@@ -274,7 +274,7 @@ export const barChartBoxRevenue = {
 };
 
 export const barChartBoxVisit = {
-  title: "Total Visit",
+  title: "Total Visits",
   color: "#FF8042",
   dataKey: "visit",
   chartData: [
